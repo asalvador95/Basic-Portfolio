@@ -1,0 +1,41 @@
+h1 {
+	font-family: 'Quicksand', sans-serif;
+	font-style: 700;
+	color: #FE6666;
+}
+.background {
+	background-color: #e6e6e6;
+	z-index: 0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+.border-line {
+	border-bottom: solid;
+	border-color: #e6e6e6;
+}
+.header {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	z-index: 1;
+}
+.para01 {
+	background-color: white;
+	color: #4d4d4d;
+	line-height: 33px;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-style: 400;
+	width: 650px;
+	height: 300px;
+	margin-left: 130px;
+	margin-top: 50px;
+	border: dotted;
+	border-width: 0.2px;
+	border-color: #FE6666;
+	border-radius: 8px;
+	padding: 25px;
+	float: left;
+	position: relative;
+	z-index: 10;
+}
